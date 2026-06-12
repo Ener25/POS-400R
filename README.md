@@ -62,7 +62,7 @@ El objetivo del proyecto es proporcionar una solución práctica, escalable y f�
 | ---------------------- | ----------------------- |
 | 💻 C#                  | Lenguaje principal      |
 | ⚙️ .NET                | Framework de desarrollo |
-| 🗄️ SQL Server         | Base de datos           |
+| 🗄️ MySql Server         | Base de datos           |
 | 🖥️ Visual Studio 2022 | Entorno de desarrollo   |
 | 🔄 Git                 | Control de versiones    |
 | 🌐 GitHub              | Gestión del repositorio |
@@ -88,6 +88,8 @@ Restaurar automáticamente los paquetes NuGet requeridos.
 ### 4️⃣ Ejecutar la aplicación
 
 Compilar y ejecutar el proyecto.
+
+#### OJO Utilizar el script bdpos2 para la creacion de la base de datos 
 
 ---
 
