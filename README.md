@@ -48,7 +48,7 @@ El objetivo del proyecto es proporcionar una solución práctica, escalable y f�
 
 ### 📦 Gestión de Productos
 
-![Productos](assets/screenshots/products.png)
+![Productos](assets/screenshots/Gestion.png)
 
 ### 💰 Módulo de Ventas
 
