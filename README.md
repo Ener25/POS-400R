@@ -52,7 +52,7 @@ El objetivo del proyecto es proporcionar una solución práctica, escalable y f�
 
 ### 💰 Módulo de Ventas
 
-![Ventas](assets/screenshots/sales.png)
+![Ventas](assets/screenshots/ventas.png)
 
 ---
 
