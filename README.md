@@ -42,9 +42,9 @@ El objetivo del proyecto es proporcionar una solución práctica, escalable y f�
 
 ## 🖼️ Capturas de Pantalla
 
-### 🏠 Pantalla Principal
+### 🏠 Login
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/login.png)
 
 ### 📦 Gestión de Productos
 
