@@ -44,7 +44,7 @@ El objetivo del proyecto es proporcionar una solución práctica, escalable y f�
 
 ### 🏠 Login
 
-![Dashboard](assets/screenshots/login .png)
+![Dashboard](assets/screenshots/login.png)
 
 ### 📦 Gestión de Productos
 
